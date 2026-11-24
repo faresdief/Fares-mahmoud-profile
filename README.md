@@ -2,6 +2,8 @@
 
 A single-page digital business card for Fares Mahmoud, Web Developer.
 
+**Live demo:** https://faresdief.github.io/Fares-mahmoud-profile/
+
 ## Features
 
 - One-tap links: LinkedIn, Instagram, Facebook, WhatsApp, and GitHub
